@@ -1,5 +1,5 @@
 {
-  "name": "geneticJStempTool",
+  "name": "geneticJS-tempTool",
   "version": "1.1.0",
   "description": "Genetic Algorithm",
   "main": "src/js/index.js",
