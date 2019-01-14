@@ -1,3 +1,3 @@
-function spl(x) { return console.log(x); };
+function geneticJStempTool(x) { return console.log(x); };
 
-module.exports = { splicer : spl };
+module.exports = { geneticJStempTool : geneticJStempTool };
