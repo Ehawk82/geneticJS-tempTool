@@ -1,3 +1,3 @@
-function geneticJStempTool(x,y,z,a,b) { return x.trim() + y.trim() + z + a.trim() + b.trim() };
+function geneticJStempTool(x) { return x.split() };
 
 module.exports = { geneticJStempTool : geneticJStempTool };
