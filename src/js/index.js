@@ -1,3 +1,3 @@
-function geneticJStempTool(x) { return x.split(/(?!$)/) };
+function geneticJStempTool(x) { return x.trim().split(/(?!$)/) };
 
 module.exports = { geneticJStempTool : geneticJStempTool };
